@@ -23,7 +23,17 @@ At first, you would have to download QT Framework from their website: https://bi
 
 
 # Challenges
-* my greatest challenge was to learn how to use QT enverment since the syntax in Qt is a bit diffrent from what I learned until now in C++. In order to overcome this challenge, I use the help I was provided by Professor Azhar and the mentors that working under him. In addition I used youtube videos that guide me through it. 
+* My greatest challenge was learning how to use the QT environment since the syntax in QT is slightly different from what I've learned in C++ so far. To overcome this challenge, I used the help I was provided by Professor Azhar and the mentors working under him. In addition, I watched YouTube videos that guide me through it.
 
-* In my application start with a login window and once you enter your values it's diracting you to the main menu. There you have three options - About the rumor app, 5g information and the rumor game. The most challenging one was the rumor game, when the user need to answer question of True or False by entering input. than I need to define if the input is correct and show back the answer to the user so he'll know how many points he achive.  
+* In my application, you start with a login window and once you enter your values it's directing you to the main menu. There you have three options - About the rumor app, 5g information, and the rumor game. The most challenging was the rumor game, where the user needed to enter answers to questions of True or False. then I need to define if the input is correct and show back the answer to the user so he'll know how many points he achieved.
+
+# Accomplishments
+* Succesfullly incorporated all major advanced programming techniques learnt in my 211H class.
+* Learnt QT framework and QT API
+* Adherence to the project schedule
+
+# Future direction
+* I want to allow the user swipe/choose each question in a diffrent window.
+* I want to have a search box so the user can search for article in real time. 
+
 
