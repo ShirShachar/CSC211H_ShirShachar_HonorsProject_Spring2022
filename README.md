@@ -23,4 +23,7 @@ At first, you would have to download QT Framework from their website: https://bi
 
 
 # Challenges
-* my greatest challenge was to learn how to use QT enverment since the syntax in Qt is a bit diffrent from what I learned until now in C++. In order to overcome this challenge, i use the help i was provided by Professor Azhar and the mentors 
+* my greatest challenge was to learn how to use QT enverment since the syntax in Qt is a bit diffrent from what I learned until now in C++. In order to overcome this challenge, I use the help I was provided by Professor Azhar and the mentors that working under him. In addition I used youtube videos that guide me through it. 
+
+* In my application start with a login window and once you enter your values it's diracting you to the main menu. There you have three options - About the rumor app, 5g information and the rumor game. The most challenging one was the rumor game, when the user need to answer question of True or False by entering input. than I need to define if the input is correct and show back the answer to the user so he'll know how many points he achive.  
+
