@@ -13,9 +13,14 @@ In our app, you can also play a game to determine if a rumor is True or False, a
 # How to use the App
 * Download and install QT
 
-At first, you would have to download QT Framework from their website: https://bit.ly/3MXbKiS. Follow the instructions to install version 6.3, and XCODE version 13 - https://developer.apple.com/xcode/. 
+At first, you would have to download QT Framework from their website: https://bit.ly/3MXbKiS. Follow the instructions to install version 6.3. 
+
+****need to put here the instraction about using my application***
 
 # Algorithm of The Rumor App
 
 <img width="839" alt="Screen Shot 2022-05-09 at 3 22 28 PM" src="https://user-images.githubusercontent.com/98283083/167482498-585215b3-4854-4f08-b52a-988bcd7c4998.png">
 
+
+# Challenges
+* my greatest challenge was to learn how to use QT enverment since the syntax in Qt is a bit diffrent from what I learned until now in C++. In order to overcome this challenge, i use the help i was provided by Professor Azhar and the mentors 
