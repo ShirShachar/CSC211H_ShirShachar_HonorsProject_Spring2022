@@ -1,6 +1,6 @@
 # Inspiration for TheRumorApp 
 
-It all started in Ideathon we has during my CSC211H course this spring. In this project, I choose to focus on 5g misinformation and conspiracy. Link to my website https://sites.google.com/view/rumor-blocker/home
+It all started in Ideathon we has during my CSC211H course this spring. In this project, I choose to focus on 5g misinformation and conspiracy. Link to my website https://sites.google.com/view/csc211hshirshacharhonorsprojec/home
 
 All around the world, around the 1970s, following the Cold War, many rumors started to circle that electric products such as televisions, microwaves, ovens and cellphones are and will become a possible human health catastrophe. That was the beginning of the 2g era. 
 
@@ -30,7 +30,7 @@ At first, you would have to download QT Framework from their website: https://bi
 * In my application, you start with a login window and once you enter your values it's directing you to the main menu. There you have three options - About the rumor app, 5g information, and the rumor game. The most challenging was the rumor game, where the user needed to enter answers to questions of True or False. then I need to define if the input is correct and show back the answer to the user so he'll know how many points he achieved.
 
 # Accomplishments
-* Succesfullly incorporated all major advanced programming techniques learnt in my 211H class.
+* Successfully incorporated all major advanced programming techniques learnt in my 211H class.
 * Learnt QT framework and QT API
 * Adherence to the project schedule
 
