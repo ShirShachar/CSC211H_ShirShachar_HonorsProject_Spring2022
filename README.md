@@ -25,7 +25,7 @@ At first, you would have to download QT Framework from their website: https://bi
 
 # Software Design of The Rumor App (UML)
 
-<img width="568" alt="Screen Shot 2022-05-11 at 8 12 35 PM" src="https://user-images.githubusercontent.com/98283083/167967596-cf9291f2-ee5c-4976-9e1e-35f47a9e5b56.png">
+<img width="650" alt="Screen Shot 2022-05-11 at 8 12 35 PM" src="https://user-images.githubusercontent.com/98283083/167967596-cf9291f2-ee5c-4976-9e1e-35f47a9e5b56.png">
 
 
 # Challenges
