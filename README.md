@@ -23,6 +23,10 @@ At first, you would have to download QT Framework from their website: https://bi
 
 <img width="839" alt="Screen Shot 2022-05-09 at 3 22 28 PM" src="https://user-images.githubusercontent.com/98283083/167482498-585215b3-4854-4f08-b52a-988bcd7c4998.png">
 
+# Software Design of The Rumor App (UML)
+
+<img width="568" alt="Screen Shot 2022-05-11 at 8 12 35 PM" src="https://user-images.githubusercontent.com/98283083/167967596-cf9291f2-ee5c-4976-9e1e-35f47a9e5b56.png">
+
 
 # Challenges
 * My greatest challenge was learning how to use the QT environment since the syntax in QT is slightly different from what I've learned in C++ so far. To overcome this challenge, I used the help I was provided by Professor Azhar and the mentors working under him. In addition, I watched YouTube videos that guide me through it.
