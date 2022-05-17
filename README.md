@@ -1,6 +1,6 @@
 # Inspiration for TheRumorApp 
 
-It all started in Ideathon we has during my CSC211H course this spring. In this project, I choose to focus on 5g misinformation and conspiracy. Link to my website https://sites.google.com/view/csc211hshirshacharhonorsprojec/home
+It all started in Ideathon we has during my CSC211H course this spring. In this project, I choose to focus on 5g misinformation and conspiracy. Link to my website https://sites.google.com/view/csc211hshirshacharhonorsprojec/the-rumor-app-algorithm-design. 
 
 All around the world, around the 1970s, following the Cold War, many rumors started to circle that electric products such as televisions, microwaves, ovens and cellphones are and will become a possible human health catastrophe. That was the beginning of the 2g era. 
 
